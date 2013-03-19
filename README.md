@@ -1,6 +1,6 @@
 # Chart.js - Rails
 
-(Chart.js)[http://www.chartjs.org] is "Easy, object orientated client side graphs for designers and developers".
+[Chart.js](http://www.chartjs.org) is "Easy, object orientated client side graphs for designers and developers".
 
 This is a package for simple integration in Rails.
 
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 Require using Assets pipeline
 
-//= require chart
+    //= require chart
 
 ## Contributing
 
